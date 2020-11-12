@@ -43,5 +43,9 @@ public class Board {
 	private String regdate;
 	private int count;
 	private String content;
+	public static Object getInstance() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 }
